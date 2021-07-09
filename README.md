@@ -22,7 +22,11 @@ To test ONNX inference
 python3 demo_razmetka.py
 ```
 
+# Examples
 
+![1](output/test_1280x720_01_out.jpg )
+
+![2](output/test_1280x720_02_out.jpg )
 
 
 
